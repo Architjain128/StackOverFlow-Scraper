@@ -12,17 +12,25 @@ class StackOverflowScraper{
         this.frequency = new Map();
         this.urlCtr=0;
     }
+
+    //  sleep function
     sleep(delay) {
         return new Promise(resolve=>setTimeout(()=>resolve(1), delay));
     }
+
+    // intial urls from homepage
     listUrlsPerPage(){
         for(let i = 1;i<=this.maxPage;i++){
             this.urls.push(`https://stackoverflow.com/questions?tab=newest&pagesize=${this.urlPerPage}&page=${i}`);
         }
     }
+
+    // random number generator
     randomValue(minVal,maxVal){
         return Math.floor(Math.random()*(maxVal-minVal)+minVal);
     }
+
+    // update related frequency
     updateRelatedFrequency(urlArray){
         urlArray.forEach(({ title, url }) => {
             const freq = this.frequency.get(title);
@@ -34,6 +42,8 @@ class StackOverflowScraper{
             }
         });
     }
+
+    // extract data from each page, update related frequency and collect new urls
     async extractData(){
         try{
             if (this.urls.length === this.urlCtr) {
@@ -92,6 +102,8 @@ class StackOverflowScraper{
             console.log(error);
         }
     }
+
+    // dumps data in array of json objects
     async getData(){
         const finalData = [];
         this.results.forEach(item => {
@@ -100,6 +112,8 @@ class StackOverflowScraper{
         });
         return finalData;
     }
+
+    // run scraper
     async run(){
         this.listUrlsPerPage();
         for(let i = 0;i<this.concurrencyCount;i++){
@@ -107,4 +121,5 @@ class StackOverflowScraper{
         }
     }
 }
+
 module.exports = StackOverflowScraper;
