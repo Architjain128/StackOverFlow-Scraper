@@ -40,3 +40,10 @@
 
     ```
 
+# Node Version
++ Use Node version more than or equal to v12.x
++ Want to upgrade the version?
+```
+  > sudo curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -
+  > sudo apt-get install -y nodejs
+```
