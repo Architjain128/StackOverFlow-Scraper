@@ -1,11 +1,16 @@
 "title","url","votes","answer","frequency"
-"Is manual-image-augmentation meaningful despite auto-image-augmentation done through config file?","https://stackoverflow.com/questions/71934270/is-manual-image-augmentation-meaningful-despite-auto-image-augmentation-done-thr","0","0",1
-"How to mock which is returning list of integers on some where condition?","https://stackoverflow.com/questions/71934648/how-to-mock-which-is-returning-list-of-integers-on-some-where-condition","0","0",1
-"How can I make my makefile put my project together the way I need it?","https://stackoverflow.com/questions/71934550/how-can-i-make-my-makefile-put-my-project-together-the-way-i-need-it","0","0",1
-"react state change does not work as expected with dynamic function call - however if i use an input element to change same field state, it works","https://stackoverflow.com/questions/71934367/react-state-change-does-not-work-as-expected-with-dynamic-function-call-howeve","0","11",1
-"TypeScript convert incoming urls to pdf","https://stackoverflow.com/questions/71934455/typescript-convert-incoming-urls-to-pdf","0","0",1
-"Image augmentation options in config for Object detection and high loss value using SSD MobileNetv2","https://stackoverflow.com/questions/54416185/image-augmentation-options-in-config-for-object-detection-and-high-loss-value-us","1","11",1
-"How to get the coordinates of the bounding box in YOLO object detection?","https://stackoverflow.com/questions/44544471/how-to-get-the-coordinates-of-the-bounding-box-in-yolo-object-detection","17","66",1
-"YOLO: Wrong annotation: class_id = 6. But class_id should be [from 0 to 0]","https://stackoverflow.com/questions/66857027/yolo-wrong-annotation-class-id-6-but-class-id-should-be-from-0-to-0","0","11",1
-"Would it be effective to crop image in yolo v4?","https://stackoverflow.com/questions/63257594/would-it-be-effective-to-crop-image-in-yolo-v4","0","11",1
-"Couldn't display YOLO result via OpenCV dnn module","https://stackoverflow.com/questions/57337565/couldnt-display-yolo-result-via-opencv-dnn-module","2","11",1
+"How can I connect with a GCP SQL Database with CloudFramework PHP?","https://stackoverflow.com/questions/71934697/how-can-i-connect-with-a-gcp-sql-database-with-cloudframework-php","0","11",1
+"Is there a way to get strings and integers within a variable seperately in python?","https://stackoverflow.com/questions/71934991/is-there-a-way-to-get-strings-and-integers-within-a-variable-seperately-in-pytho","0","0",1
+"Getting incorrect link in BeautifulSoup python web scraper","https://stackoverflow.com/questions/71934791/getting-incorrect-link-in-beautifulsoup-python-web-scraper","0","0",1
+"Mongoose Nested Schema - required fields inside array field","https://stackoverflow.com/questions/71934593/mongoose-nested-schema-required-fields-inside-array-field","0","11",1
+"How to include multiple condition for intellij goland file mask?","https://stackoverflow.com/questions/71934895/how-to-include-multiple-condition-for-intellij-goland-file-mask","0","0",1
+"Insert into ... values ( SELECT ... FROM ... )","https://stackoverflow.com/questions/25969/insert-into-values-select-from","1667","2727",1
+"How to concatenate text from multiple rows into a single text string in SQL Server","https://stackoverflow.com/questions/194852/how-to-concatenate-text-from-multiple-rows-into-a-single-text-string-in-sql-serv","2221","4747",3
+"How can I list the tables in a SQLite database file that was opened with ATTACH?","https://stackoverflow.com/questions/82875/how-can-i-list-the-tables-in-a-sqlite-database-file-that-was-opened-with-attach","1300","1717",2
+"How can I prevent SQL injection in PHP?","https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php","2773","2828",4
+"How can I do an UPDATE statement with JOIN in SQL Server?","https://stackoverflow.com/questions/1293330/how-can-i-do-an-update-statement-with-join-in-sql-server","1490","1616",3
+"How do I UPDATE from a SELECT in SQL Server?","https://stackoverflow.com/questions/2334712/how-do-i-update-from-a-select-in-sql-server","4056","3737",7
+"Reference — What does this symbol mean in PHP?","https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php","4904","2323",4
+"How do I get a YouTube video thumbnail from the YouTube API?","https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api","2674","3232",1
+"How does PHP 'foreach' actually work?","https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work","2197","77",3
+"How do I import an SQL file using the command line in MySQL?","https://stackoverflow.com/questions/17666249/how-do-i-import-an-sql-file-using-the-command-line-in-mysql","2497","5454",3
