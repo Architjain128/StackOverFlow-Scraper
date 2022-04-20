@@ -1,0 +1,11 @@
+"title","url","votes","answer","frequency"
+"Is manual-image-augmentation meaningful despite auto-image-augmentation done through config file?","https://stackoverflow.com/questions/71934270/is-manual-image-augmentation-meaningful-despite-auto-image-augmentation-done-thr","0","0",1
+"How to mock which is returning list of integers on some where condition?","https://stackoverflow.com/questions/71934648/how-to-mock-which-is-returning-list-of-integers-on-some-where-condition","0","0",1
+"How can I make my makefile put my project together the way I need it?","https://stackoverflow.com/questions/71934550/how-can-i-make-my-makefile-put-my-project-together-the-way-i-need-it","0","0",1
+"react state change does not work as expected with dynamic function call - however if i use an input element to change same field state, it works","https://stackoverflow.com/questions/71934367/react-state-change-does-not-work-as-expected-with-dynamic-function-call-howeve","0","11",1
+"TypeScript convert incoming urls to pdf","https://stackoverflow.com/questions/71934455/typescript-convert-incoming-urls-to-pdf","0","0",1
+"Image augmentation options in config for Object detection and high loss value using SSD MobileNetv2","https://stackoverflow.com/questions/54416185/image-augmentation-options-in-config-for-object-detection-and-high-loss-value-us","1","11",1
+"How to get the coordinates of the bounding box in YOLO object detection?","https://stackoverflow.com/questions/44544471/how-to-get-the-coordinates-of-the-bounding-box-in-yolo-object-detection","17","66",1
+"YOLO: Wrong annotation: class_id = 6. But class_id should be [from 0 to 0]","https://stackoverflow.com/questions/66857027/yolo-wrong-annotation-class-id-6-but-class-id-should-be-from-0-to-0","0","11",1
+"Would it be effective to crop image in yolo v4?","https://stackoverflow.com/questions/63257594/would-it-be-effective-to-crop-image-in-yolo-v4","0","11",1
+"Couldn't display YOLO result via OpenCV dnn module","https://stackoverflow.com/questions/57337565/couldnt-display-yolo-result-via-opencv-dnn-module","2","11",1
