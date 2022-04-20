@@ -1,16 +1,11 @@
 "title","url","votes","answer","frequency"
-"How can I connect with a GCP SQL Database with CloudFramework PHP?","https://stackoverflow.com/questions/71934697/how-can-i-connect-with-a-gcp-sql-database-with-cloudframework-php","0","11",1
-"Is there a way to get strings and integers within a variable seperately in python?","https://stackoverflow.com/questions/71934991/is-there-a-way-to-get-strings-and-integers-within-a-variable-seperately-in-pytho","0","0",1
-"Getting incorrect link in BeautifulSoup python web scraper","https://stackoverflow.com/questions/71934791/getting-incorrect-link-in-beautifulsoup-python-web-scraper","0","0",1
-"Mongoose Nested Schema - required fields inside array field","https://stackoverflow.com/questions/71934593/mongoose-nested-schema-required-fields-inside-array-field","0","11",1
-"How to include multiple condition for intellij goland file mask?","https://stackoverflow.com/questions/71934895/how-to-include-multiple-condition-for-intellij-goland-file-mask","0","0",1
-"Insert into ... values ( SELECT ... FROM ... )","https://stackoverflow.com/questions/25969/insert-into-values-select-from","1667","2727",1
-"How to concatenate text from multiple rows into a single text string in SQL Server","https://stackoverflow.com/questions/194852/how-to-concatenate-text-from-multiple-rows-into-a-single-text-string-in-sql-serv","2221","4747",3
-"How can I list the tables in a SQLite database file that was opened with ATTACH?","https://stackoverflow.com/questions/82875/how-can-i-list-the-tables-in-a-sqlite-database-file-that-was-opened-with-attach","1300","1717",2
-"How can I prevent SQL injection in PHP?","https://stackoverflow.com/questions/60174/how-can-i-prevent-sql-injection-in-php","2773","2828",4
-"How can I do an UPDATE statement with JOIN in SQL Server?","https://stackoverflow.com/questions/1293330/how-can-i-do-an-update-statement-with-join-in-sql-server","1490","1616",3
-"How do I UPDATE from a SELECT in SQL Server?","https://stackoverflow.com/questions/2334712/how-do-i-update-from-a-select-in-sql-server","4056","3737",7
-"Reference — What does this symbol mean in PHP?","https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php","4904","2323",4
-"How do I get a YouTube video thumbnail from the YouTube API?","https://stackoverflow.com/questions/2068344/how-do-i-get-a-youtube-video-thumbnail-from-the-youtube-api","2674","3232",1
-"How does PHP 'foreach' actually work?","https://stackoverflow.com/questions/10057671/how-does-php-foreach-actually-work","2197","77",3
-"How do I import an SQL file using the command line in MySQL?","https://stackoverflow.com/questions/17666249/how-do-i-import-an-sql-file-using-the-command-line-in-mysql","2497","5454",3
+"Custom tree dropdown style","https://stackoverflow.com/questions/71935400/custom-tree-dropdown-style","0","0",1
+"Postgres - Get max of a column in a LOD function using group by","https://stackoverflow.com/questions/71934953/postgres-get-max-of-a-column-in-a-lod-function-using-group-by","1","22",1
+"Getting Null Pointer Exception when using ""like"" expression of criteriaBuilder","https://stackoverflow.com/questions/71935067/getting-null-pointer-exception-when-using-like-expression-of-criteriabuilder","0","11",1
+"How to print one word per line given a String in JavaScript [closed]","https://stackoverflow.com/questions/71935274/how-to-print-one-word-per-line-given-a-string-in-javascript","-2","0",1
+"Redis max clients ""error The operating system is not able to handle the specified number of clients, try with 10208""","https://stackoverflow.com/questions/71935159/redis-max-clients-error-the-operating-system-is-not-able-to-handle-the-specifie","0","0",1
+"See :hover state in Chrome Developer Tools","https://stackoverflow.com/questions/4515124/see-hover-state-in-chrome-developer-tools","928","1313",1
+"Where should I put <script> tags in HTML markup?","https://stackoverflow.com/questions/436411/where-should-i-put-script-tags-in-html-markup","1746","2020",1
+"How do I style a <select> dropdown with only CSS?","https://stackoverflow.com/questions/1895476/how-do-i-style-a-select-dropdown-with-only-css","1549","2424",1
+"CSS 100% height with padding/margin","https://stackoverflow.com/questions/485827/css-100-height-with-padding-margin","857","1515",1
+"Transitions on the CSS display property","https://stackoverflow.com/questions/3331353/transitions-on-the-css-display-property","1757","3636",1

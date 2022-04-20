@@ -3,7 +3,7 @@
 ```
     > npm install
 ```
-+ Add `DB_URI` to `.env`
++ Add `DB_URI` to `.env` if you want to save data in database
 ```
  DB_URI="mongodb+srv://<username>:<password>@<cluster>.mongodb.net/<db_name>?retryWrites=true&w=majority"
 ```
